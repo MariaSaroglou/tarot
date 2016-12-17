@@ -1,0 +1,11 @@
+c:\users\μαρία\documents\visual studio 2015\Projects\maria_sar_tarot\maria_sar_tarot\bin\Debug\maria_sar_tarot.exe
+c:\users\μαρία\documents\visual studio 2015\Projects\maria_sar_tarot\maria_sar_tarot\bin\Debug\maria_sar_tarot.pdb
+c:\users\μαρία\documents\visual studio 2015\Projects\maria_sar_tarot\maria_sar_tarot\bin\Debug\maria_sar_tarot.xml
+c:\users\μαρία\documents\visual studio 2015\Projects\maria_sar_tarot\maria_sar_tarot\obj\Debug\maria_sar_tarot.vbprojResolveAssemblyReference.cache
+c:\users\μαρία\documents\visual studio 2015\Projects\maria_sar_tarot\maria_sar_tarot\obj\Debug\maria_sar_tarot.Form1.resources
+c:\users\μαρία\documents\visual studio 2015\Projects\maria_sar_tarot\maria_sar_tarot\obj\Debug\maria_sar_tarot.Resources.resources
+c:\users\μαρία\documents\visual studio 2015\Projects\maria_sar_tarot\maria_sar_tarot\obj\Debug\maria_sar_tarot.vbproj.GenerateResource.Cache
+c:\users\μαρία\documents\visual studio 2015\Projects\maria_sar_tarot\maria_sar_tarot\obj\Debug\maria_sar_tarot.exe
+c:\users\μαρία\documents\visual studio 2015\Projects\maria_sar_tarot\maria_sar_tarot\obj\Debug\maria_sar_tarot.xml
+c:\users\μαρία\documents\visual studio 2015\Projects\maria_sar_tarot\maria_sar_tarot\obj\Debug\maria_sar_tarot.pdb
+C:\Users\Μαρία\Documents\Visual Studio 2015\Projects\maria_sar_tarot\maria_sar_tarot\bin\Debug\maria_sar_tarot.exe.config
